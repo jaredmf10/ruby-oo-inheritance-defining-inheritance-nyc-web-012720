@@ -4,9 +4,8 @@ class Car < Vehicle
 
 
 
-
-
-
-
+  def go
+    return "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
 
 end
